@@ -22,3 +22,6 @@ class Adder {
         return x+y ;
     }
 }
+
+
+// [1,1] and [2]
