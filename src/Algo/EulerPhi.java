@@ -1,3 +1,5 @@
+// complexity O(n log n)
+
 package Algo;
 
 public class EulerPhi {
