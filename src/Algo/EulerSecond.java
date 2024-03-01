@@ -16,8 +16,8 @@ public class EulerSecond {
     }
 
     public static void main(String[] args) {
-        int n = 35;
-        for (n = 1; n <= 10; n++) {
+        int n = 108;
+        for (n = 1; n <= 324; n++) {
             System.out.println("phi(" + n + ") = " + phi(n));
         }
     }
