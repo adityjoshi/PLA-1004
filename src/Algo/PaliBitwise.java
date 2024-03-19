@@ -16,3 +16,5 @@ public class PaliBitwise {
         return reverseNum == num ;
     }
 }
+
+// time - O(log(n)) space - constant 1
