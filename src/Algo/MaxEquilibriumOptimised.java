@@ -2,7 +2,7 @@ package Algo;
 
 public class MaxEquilibriumOptimised {
     public static void main(String[] args) {
-        int [] arr = {-2, 5, 3, 1, 2, 6, -4, 2 };
+        int [] arr = {2, 4, 6, 1, 10 };
         System.out.println(optimised(arr));
 
     }

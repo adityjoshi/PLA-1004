@@ -2,8 +2,8 @@ package Algo;
 
 public class PalindromeBitwise {
     public static void main(String[] args) {
-        binary(9);
-        System.out.println(binary(9));
+        binary(45);
+        System.out.println(binary(45));
     }
     static int binary(int n) {
         String s = "" ;

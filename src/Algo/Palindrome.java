@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Palindrome {
     public static void main(String[] args) {
-        System.out.println(pal(8));
+        System.out.println(pal(45));
     }
     static boolean pal(int n) {
         String s  = Integer.toBinaryString(n);
